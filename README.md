@@ -12,7 +12,7 @@ You can find more information about the book [here](https://www.effective-softwa
 ---
 
 ## Repository Structure  
-The repository is organized into packages corresponding to chapters or testing topics covered in the book. 
+The repository is organized into packages corresponding to chapters covered in the book. 
 
 ---
 
